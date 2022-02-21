@@ -1,6 +1,6 @@
-# Entrega 2 - Users Service
+# Users Service
 
-A Entrega 2 é um sistema de cadasto de usuarios utilizando autorização e autenticação.
+O Users service é um sistema de cadasto de usuarios utilizando autorização e autenticação.
 
 ## Instalação/Utilização
 
