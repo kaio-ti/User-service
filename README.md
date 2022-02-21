@@ -31,7 +31,7 @@ Em caso de sucesso, obterá a seguinte resposta:
   "username": "kaio",
   "email": "kaio@email.com",
   "createdOn": "2022-01-12T23:50:07.614Z",
-  "age": 22
+  "age": 24
 }
 ```
 
